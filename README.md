@@ -1,4 +1,4 @@
-# Calculadora cientifica
+# Calculadora cientifica del Tec de Tlaxiaco
 Calculadora cientifica desarrollada en HTML,  CSS y JAVASCRIPT
 
 _En el siguiente glosario se encuentran las funciones que se utilizaran para darle funcionalidad 
