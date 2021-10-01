@@ -40,11 +40,14 @@ table {
 }c
 
 .greenbutton {
+
     background-color: #35e016;
+    background-color: #00FF00;
+
 }
 
 .greybutton {
-    background-color: #cccccc;
+    background-color: #353130;
 }
 
 .bluebutton {
